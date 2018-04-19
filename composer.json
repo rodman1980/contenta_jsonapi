@@ -14,7 +14,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/denisrodman1980/decoupled_catalog"
+            "url": "git@bitbucket.org:denisrodman1980/decoupled_catalog.git"
         }
     ],
     "extra": {
